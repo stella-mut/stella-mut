@@ -2,7 +2,7 @@
 
 I'm Stella 
 
-Software developer who builds modern, reliable, and user-focused digital experiences across the front-end and back-end. 
+Software developer 
 
 
 ## About Me
@@ -73,4 +73,4 @@ Software developer who builds modern, reliable, and user-focused digital experie
 
 Let's Connect
 
-I’m open to collaborating on meaningful projects, contributing to innovative products.
+I’m open to collaborating on projects and contributing to innovative products.
