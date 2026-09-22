@@ -12,7 +12,7 @@ Software developer
 
 - Interested in: **Artificial intelligence, full-stack web development, cloud architecture, developer experience, and accessible user interfaces**
   
--  Fun fact: **I enjoy turning complex technical ideas into simple, intuitive experiences, and I’m always curious about how technology can solve everyday problems.**
+
 
 
 
