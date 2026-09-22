@@ -71,6 +71,6 @@ Software developer
 
 
 
-Let's Connect
+Let's Connect: stellamutai.dev@gmail.com
 
 I’m open to collaborating on projects and contributing to innovative products.
